@@ -3,7 +3,6 @@ console.log("Soal nomor 1")
 console.log("=======")
 
 let name = "Alfian Eka Rahman", role = "";
-
 if(role == "Ksatria"){
     console.log(`halo Ksatria ${name} , kamu dapat menyerang dengan senjatamu!`);
 }else if(role == "Tabib"){
